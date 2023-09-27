@@ -28,6 +28,7 @@ Advancements: Text-to-image technology has seen significant advancements in rece
 In summary, "text to image" is a technology that uses AI models to convert textual descriptions into visual images, with applications across various domains, including art, content creation, and accessibility. It relies on sophisticated AI architectures and is an area of ongoing research and development.
 
 ![image](https://github.com/Divyadhyanesh/Text_to_Image/assets/133853399/67ad1362-916e-466a-9a5f-b9946db58361)
+![image](https://github.com/Divyadhyanesh/Text_to_Image/assets/133853399/952935db-a529-4cfa-82e3-1577e28c8a94)
 
 
 
